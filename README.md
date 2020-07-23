@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🎉 Welcome to sakupo's Github Repositories
+I'm a student at Tokyo Institute of Technology.  
+I’m currently learning Computer Science.  
+
+Homepage: https://sakuzhang.net  
+Works: Party Kingdom - https://trap.jp/post/712/  
 
 <!--
 **sakupo/sakupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
