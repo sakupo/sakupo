@@ -2,8 +2,6 @@
 I'm a student at Tokyo Institute of Technology.  
 I’m currently learning Computer Science.  
 
-Homepage: https://sakuzhang.net  
-Twitter: [@_saku3](https://twitter.com/_saku3)  
 Works: Party Kingdom - https://trap.jp/post/712/  
 
 <!--
