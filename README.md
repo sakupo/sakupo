@@ -1,7 +1,4 @@
 ### 🎉 Welcome to sakupo's Github Repositories
-I'm a student at Tokyo Institute of Technology.  
-I’m currently learning Computer Science.  
-
 Works: Party Kingdom - https://trap.jp/post/712/  
 
 <!--
